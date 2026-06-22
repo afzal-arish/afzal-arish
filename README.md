@@ -8,11 +8,11 @@
 
 
 
-<p align="center">
+<h3 align="center">
 
 **𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚 😃**
 
-</p>
+</h3>
 <p align="center">
   <a href="https://linkedin.com/in/afzalarish">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
