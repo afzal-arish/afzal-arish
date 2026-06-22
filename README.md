@@ -10,7 +10,7 @@
 
 <h3 align="center">
 <p align="center">
-**𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚 😃**
+𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚 😃
 </p>
 </h3>
 <p align="center">
