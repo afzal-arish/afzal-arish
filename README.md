@@ -1,5 +1,4 @@
-
-Hello, I'm [Afzal Arish](https://linkedin.com/in/afzalarish), a Computer Science undergraduate at [Sri Krishna College of Engineering and Technology](https://www.skcet.ac.in/), currently interning in Machine Learning at [Cognifyz IT Solutions](https://cognifyz.com/) and Full Stack Development at [Thiranex](https://thiranex.com/). Interested in building intelligent systems, exploring deep learning, and crafting full-stack web applications.
+Hello, I'm [Afzal Arish](https://linkedin.com/in/afzalarish), a Computer Science student, Full-Stack Developer, and Machine Learning Engineer passionate about building innovative digital solutions. I specialize in developing scalable web applications, designing intelligent machine learning systems, and exploring cutting-edge AI technologies. My interests span full-stack development, machine learning, deep learning, and software engineering, with a focus on creating impactful solutions that address real-world challenges.
 
 **Connect with me 😃**
 
